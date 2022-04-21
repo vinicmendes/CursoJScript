@@ -1,1 +1,1 @@
-Curso relacionado à aprendizagem do JavaScript
+Curso relacionado à aprendizagem do JavaScript. 
